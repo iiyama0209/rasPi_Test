@@ -1,6 +1,5 @@
 #!/bin/bash
-#written by y
-
+#written by yamato 
 
 echo hoge
 echo hoge
